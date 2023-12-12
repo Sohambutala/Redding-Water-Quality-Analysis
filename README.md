@@ -69,6 +69,20 @@ When interpreting the results of the water quality analysis, it is crucial to co
 
 These special considerations contribute to a comprehensive and nuanced understanding of the water quality analysis, fostering transparency, accountability, and responsible research practices.
 
+## Project Outcome:
+
+This comprehensive project aimed to explore the intricate relationships between wildfires, air quality, and water quality in the Redding, California region. For detailed insights refer the [report](./Documentation/DATA512-Project%20Report.pdf) Key findings include:
+
+### Air Quality Insights:
+
+Correlation between recorded wildfires and Air Quality Index (AQI) data, showcasing how wildfire events significantly impact air quality.
+Successful application of machine learning models to estimate smoke impact, providing a predictive tool for assessing future air quality trends.
+### Water Quality Analysis:
+
+Identification of potential correlations between wildfire events, calculated smoke estimates, and key water quality parameters (e.g., Water Temperature, pH, Turbidity).
+Visualization of temporal trends in water quality parameters, shedding light on the dynamic interplay between wildfires and water quality over the years.
+These outcomes contribute to a holistic understanding of the environmental dynamics in the Redding region, offering valuable insights for stakeholders, policymakers, and researchers interested in the intersection of wildfires and ecological elements.
+
 ## License
 - [Water Quality Dataset License](https://data.ca.gov/dataset/water-quality-data)
 - [USGS Wildland Fire Combined Dataset License](https://www.usgs.gov/information-policies-and-instructions/copyrights-and-credits)
